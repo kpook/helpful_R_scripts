@@ -1,1 +1,1 @@
-# helpful_R_scripts
+Storage for reuseable R scripts.
